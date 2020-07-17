@@ -1,16 +1,22 @@
-### Hi there 👋
+![Banner](https://i.ibb.co/ZXst3Xj/Readme-header.png)
+# 🙋🏼‍♂️ Hi There! 
+I'm Ricardo Boraure, a web developer, I want to make my dreams with code.
 
-<!--
-**RBoraure0205/RBoraure0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🦾 About me
+I love to develop web aplications, I like to keep learning all I can, search for new technologies and learn them, I'm a self-taught person and I like to share what I learned.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - **🐣 I was born in Venezuela**
+ -  **💻 Frontend Lover**
+ - **💓 100% Passion**
+ -  **👨🏼‍💻 Javascript enthusiastic**
+ -  **📣 Share is magic**
+## 🌟 Featured Proyects
+ - 📝 [Vue Trivia](https://vue-trivia.netlify.app/)
+ -  🤑[Vue Exchange](https://rboraure-vue-exchange.netlify.app/)
+ - ✈[ARG-Example](https://arg-views.netlify.app/)
+ - Coming Soon..
+## 📫 Contact me 
+ - **🐥 [Twitter](https://twitter.com/rboraure)**
+ - **📸 [Instagram](https://www.instagram.com/rboraure/)**
+ -  **👨🏼‍💻 [Dev.to](https://dev.to/rboraure0205)**
+ -  **📧 Email:** ricardoboraure@gmail.com
