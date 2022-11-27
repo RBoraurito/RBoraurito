@@ -1,9 +1,8 @@
-![Banner](https://i.ibb.co/SRMMdBb/RBoraure-git-Banner.png)
 # 🙋🏼‍♂️ Hi There! 
 I'm Ricardo Boraure, a web developer, I want to make my dreams with code.
 
 ## 🦾 About me
-I love to develop web aplications, I like to keep learning all I can, search for new technologies and learn them, I'm a self-taught person and I like to share what I learned.
+I’m Ricardo Boraure, can find me somewhere as RBoraure. I’m Frontend Developer specialized in React, Vue.js and its meta frameworks (Next.js, Nuxt.js, Remix), I love the JAMStack and decoupled architectures and have a deep interest in new tech and modern web development.
 
  - **🐣 I was born in Venezuela**
  -  **💻 Frontend Lover**
@@ -16,7 +15,5 @@ I love to develop web aplications, I like to keep learning all I can, search for
  - ✈[ARG-Example](https://arg-views.netlify.app/)
  - Coming Soon..
 ## 📫 Contact me 
- - **🐥 [Twitter](https://twitter.com/rboraure)**
- - **📸 [Instagram](https://www.instagram.com/rboraure/)**
- -  **👨🏼‍💻 [Dev.to](https://dev.to/rboraure0205)**
+ - [**👨🏽‍💻 LinkedIn:**](https://www.linkedin.com/in/rboraure/)
  -  **📧 Email:** ricardoboraure@gmail.com
