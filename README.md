@@ -15,5 +15,5 @@ I’m Ricardo Boraure, can find me somewhere as RBoraure. I’m Frontend Develop
  - ✈[ARG-Example](https://arg-views.netlify.app/)
  - Coming Soon..
 ## 📫 Contact me 
- - [**👨🏽‍💻 LinkedIn:**](https://www.linkedin.com/in/rboraure/)
+ - [**👨🏽‍💻 LinkedIn**](https://www.linkedin.com/in/rboraure/)
  -  **📧 Email:** ricardoboraure@gmail.com
