@@ -11,5 +11,4 @@ I’m Ricardo Boraure, can find me everywhere as RBoraure/RBoraurito. I’m Fron
  -  **📣 Share is magic**
  -  **[🖌️ Portfolio ](https://rboraure.dev)**
 ## 📫 Contact me 
- - [**👨🏽‍💻 LinkedIn**](https://www.linkedin.com/in/rboraure/)
  -  **📧 Email:** ricardoboraure@gmail.com
